@@ -1,4 +1,5 @@
-# Problem : The provided code stub reads an integer,n , from STDIN. For all non-negative integers i < n , print i*2 .
+# Problem : Loops
+
 # HackerRank: https://www.hackerrank.com/challenges/python-loops/problem
 
 if __name__ == '__main__':
