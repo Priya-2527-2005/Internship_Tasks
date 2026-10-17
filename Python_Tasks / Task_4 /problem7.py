@@ -1,4 +1,4 @@
-# Problem: In Python, a string can be split on a delimiter.
+# Problem: String split and join
 
 # HackerRank: https://www.hackerrank.com/challenges/python-string-split-and-join/problem
 
