@@ -1,0 +1,18 @@
+# Problem: Set .intersection() Operation
+
+
+# HackerRank: https://www.hackerrank.com/challenges/py-set-intersection-operation/problem
+
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+
+
+
+n = int(input())
+english_set = set(map(int, input().split()))
+
+b = int(input())
+french_set = set(map(int, input().split()))
+
+# Find the intersection and print the length
+print(len(english_set.intersection(french_set)))
+
